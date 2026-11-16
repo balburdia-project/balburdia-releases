@@ -1,4 +1,4 @@
-# Balburdia Desktop Realeses
+# Balburdia Desktop Releases
 
 Welcome to the official distribution repository for the **Balburdia** desktop application. Balburdia is a self-hosted, real-time chat and media platform.
 
